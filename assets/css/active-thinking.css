@@ -3259,8 +3259,9 @@ display: none;
 .active-thinking{
     background: #fefefe;
 }
-#content.container{
+#content.container, #content-wider.container{
     width: 100%;
     padding: 0;
     margin: 0;
 }
+
